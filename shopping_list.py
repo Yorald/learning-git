@@ -8,4 +8,4 @@ x=0
 for shop, items in shopping_list.items():
     x=x + len(items)
 
-print(f"W sumie kupuje {x} produktówJD")    
+print(f"W sumie kupuje {x} produktów")    
